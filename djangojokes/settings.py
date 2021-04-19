@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     #Local apps
-    'pages.apps.JokesConfig',
+    'jokes.apps.JokesConfig',
     'pages.apps.PagesConfig',
     
 ]
